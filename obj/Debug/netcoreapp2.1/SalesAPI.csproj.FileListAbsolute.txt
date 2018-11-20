@@ -1,0 +1,14 @@
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\bin\Debug\netcoreapp2.1\SalesAPI.deps.json
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\bin\Debug\netcoreapp2.1\SalesAPI.runtimeconfig.json
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\bin\Debug\netcoreapp2.1\SalesAPI.runtimeconfig.dev.json
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\bin\Debug\netcoreapp2.1\SalesAPI.dll
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\bin\Debug\netcoreapp2.1\SalesAPI.pdb
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.csprojAssemblyReference.cache
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.RazorAssemblyInfo.cache
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.RazorAssemblyInfo.cs
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.AssemblyInfoInputs.cache
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.AssemblyInfo.cs
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.dll
+C:\Users\Lawrence\Documents\Visual Studio 2017\Projects\SalesAPI\SalesAPI\obj\Debug\netcoreapp2.1\SalesAPI.pdb

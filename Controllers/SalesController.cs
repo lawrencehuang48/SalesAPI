@@ -130,12 +130,17 @@ namespace SalesAPI.Controllers
         }
 
         // GET: api/Sales/Tags
-        [Route("tags")]
         [HttpGet]
-        public async Task<List<string>> GetTags()
+        [Route("tags")]
+        public async Task<List<SalesItem>> GetTags([FromQuery] string tags)
         {
             var sales = (from s in _context.SalesItem
-                         select s.Tags).Distinct();
+                         select s).Distinct();
+
+            if (!String.IsNullOrEmpty(tags)) //make sure user gave a tag to search
+            {
+                sales = sales.Where(s => s.Tags.ToLower().Equals(tags.ToLower())); // find the entries with the search tag and reassign
+            }
 
             var returned = await sales.ToListAsync();
 

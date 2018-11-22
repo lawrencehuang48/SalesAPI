@@ -164,7 +164,8 @@ namespace SalesAPI.Controllers
                     SalesItem salesItem = new SalesItem
                     {
                         Title = sale.Title,
-                        Tags = sale.Tags
+                        Tags = sale.Tags,
+                        Links = sale.Links
                     };
 
                     System.Drawing.Image image = System.Drawing.Image.FromStream(stream);
